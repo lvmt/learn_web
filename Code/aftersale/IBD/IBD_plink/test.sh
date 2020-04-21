@@ -1,0 +1,1 @@
+IBD /NJPROJ2/DISEASE/WORK/liyujie/AfterSales/05_IBD_plink_king_overlap/snp.merged.vcf.gz /NJPROJ2/DISEASE/WORK/liyujie/AfterSales/05_IBD_plink_king_overlap/sample_info_B1 /NJPROJ2/DISEASE/WORK/liyujie/AfterSales/05_IBD_plink_king_overlap/IBD_plink family v6

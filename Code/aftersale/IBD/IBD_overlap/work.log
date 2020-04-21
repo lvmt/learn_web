@@ -1,0 +1,5 @@
+结果文件解读：
+
+基于4.5流程call变异结果进行overlap分析，进行亲缘分析判断
+（注意：每次只能比较两个样本，亲子关系VAR_percentage 80%左右，GT_percentage 60% 左右；
+  无关系样本，VAR_percentage 60%左右，GT_percentage 40%左右，此值为经验值，有待验证。）
